@@ -1,0 +1,4 @@
+vectorbt==0.23.2
+numpy==1.21
+ccxt
+alpaca_trade_api
